@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm Deepak Singh Thagunna</h1>
 <h3 align="center">A passionate flutter developer from Nepal.</h3>
 
-<div align="right" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20px;">
     <img src="https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/200.webp?cid=ecf05e47fgw3r861itml744wb0cj7v15srzv2kxizmmca9hl&ep=v1_gifs_related&rid=200.webp&ct=gif" alt="coding" width="400">
 </div>
+
 
 - 🌱 I’m currently learning **Animation and Database.**
 
@@ -66,5 +67,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipaksingh0&show_icons=true&locale=en&layout=compact" alt="dipaksingh0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipaksingh0&show_icons=true&locale=en" alt="dipaksingh0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipaksingh0&" alt="dipaksingh0" /></p>
